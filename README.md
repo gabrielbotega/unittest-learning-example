@@ -15,3 +15,6 @@ This is the main aspect of a TDD (test-driven development) approach, in which yo
 5 – Refactor: Make it beautiful.
 
 Knowing these steps, it’s presented a code that passed through all these steps, just as an example and a repo to follow if you have questions on ‘how to do it’.
+
+
+In order to run the test, you need to run directly in the test_feature.py script.
